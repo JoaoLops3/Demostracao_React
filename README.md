@@ -63,4 +63,4 @@ A aplicação está hospedada na Vercel e pode ser acessada através do link:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   https://github.com/JoaoLops3/Demostracao_React.git
